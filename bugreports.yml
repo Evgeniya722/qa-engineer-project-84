@@ -2,7 +2,7 @@
 - summary: |
     Наименование товара не переводится при переключении с английского языка на русский.
   environment: |
-    Сайт: https://hexlet-products-store.vercel.app/, браузер: Google Chrome 119.0.1, ОС: Windows 11.
+    Браузер: Google Chrome 119.0.1, ОС: Windows 11.
   steps-to-reproduce: |
     1. Перейти в каталог товаров.
     2. Переключить язык сайта с английского на русский.
@@ -14,7 +14,7 @@
 - summary: |
     Выводится внутренняя информация сайта об общем количестве товара на складе, не предназначенная для пользователя.
   environment: |
-    Сайт: https://hexlet-products-store.vercel.app/, браузер: Mozilla Firefox 118.0, ОС: macOS Ventura.
+    Браузер: Mozilla Firefox 118.0, ОС: macOS Ventura.
   steps-to-reproduce: |
     1. Открыть главную страницу сайта.
     2. Посмотреть на данные, расположенные рядом с ценой товара со скидкой.
@@ -26,7 +26,7 @@
 - summary: |
     Оформление заказа происходит без заполнения данных клиента.
   environment: |
-    Сайт: https://hexlet-products-store.vercel.app/, браузер: Safari 16.1, ОС: iOS 17.
+    Браузер: Safari 16.1, ОС: iOS 17.
   steps-to-reproduce: |
     1. Добавить товар в корзину.
     2. Перейти в корзину и нажать "Оформить заказ", не заполняя никаких данных.
@@ -38,7 +38,7 @@
 - summary: |
     Некорректное отображение фотографий товаров по размеру.
   environment: |
-    Сайт: https://hexlet-products-store.vercel.app/, браузер: Google Chrome 119.0.1, ОС: Windows 10.
+    Браузер: Google Chrome 119.0.1, ОС: Windows 10.
   steps-to-reproduce: |
     1. Перейти в каталог товаров.
     2. Обратить внимание на фотографии.
