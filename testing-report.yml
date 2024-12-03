@@ -47,4 +47,4 @@
   status: pass
 - summary: >
     Краткое описание тест кейса. Проверка изменения языка на сайте.
-  status: pass
+  status: fail
